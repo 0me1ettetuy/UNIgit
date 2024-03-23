@@ -1,0 +1,228 @@
+01:30:03 **** Rebuild of configuration Debug for project 33 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\33.o" "..\\src\\33.cpp" 
+g++ -o 33.exe "src\\33.o" 
+Info: Nothing to build for 33
+01:30:26 **** Incremental Build of configuration Debug for project 33 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\33.o" "..\\src\\33.cpp" 
+g++ -o 33.exe "src\\33.o" 
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+01:33:13 **** Rebuild of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\kotakbas.o" "..\\src\\kotakbas.c" 
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+Info: Nothing to build for kotakbas
+Info: Nothing to build for 33
+01:33:53 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\kotakbas.o" "..\\src\\kotakbas.c" 
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+Info: Nothing to build for kotakbas
+Info: Nothing to build for kotakbas
+Info: Nothing to build for 33
+Info: Nothing to build for kotakbas
+Info: Nothing to build for kotakbas
+Info: Nothing to build for kotakbas
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+Info: Nothing to build for kotakbas
+Info: Nothing to build for kotakbas
+Info: Nothing to build for kotakbas
+01:55:33 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\kotakbas.o" "..\\src\\kotakbas.c" 
+..\src\kotakbas.c: In function 'main':
+..\src\kotakbas.c:21:6: warning: unused variable 'num' [-Wunused-variable]
+   21 |  int num;
+      |      ^~~
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file kotakbas.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for 33
+01:56:01 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file kotakbas.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+01:56:05 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\kotakbas.o" "..\\src\\kotakbas.c" 
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file kotakbas.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for 33
+01:56:30 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file kotakbas.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+Info: Nothing to build for 33
+01:56:58 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file kotakbas.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+01:58:08 **** Incremental Build of configuration Debug for project 33 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\33.o" "..\\src\\33.cpp" 
+..\src\33.cpp: In function 'int main(int, const char**)':
+..\src\33.cpp:21:6: warning: unused variable 'num' [-Wunused-variable]
+   21 |  int num;
+      |      ^~~
+g++ -o 33.exe "src\\33.o" 
+01:58:09 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+01:58:15 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\kotakbas.o" "..\\src\\kotakbas.c" 
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+Info: Nothing to build for kotakbas
+Info: Nothing to build for 33
+Info: Nothing to build for kotakbas
+01:58:57 **** Incremental Build of configuration Debug for project kotakbas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\kotakbas.o" "..\\src\\kotakbas.c" 
+gcc -o kotakbas.exe "src\\kotakbas.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file kotakbas.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:01:54 **** Rebuild of configuration Debug for project main ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o first.o "..\\first.c" 
+..\first.c: In function 'main':
+..\first.c:21:6: warning: unused variable 'num' [-Wunused-variable]
+   21 |  int num;
+      |      ^~~
+gcc -o main.exe first.o 
+Info: Nothing to build for main
+02:02:22 **** Incremental Build of configuration Debug for project main ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o first.o "..\\first.c" 
+gcc -o main.exe first.o 
+Info: Nothing to build for main
+02:05:39 **** Rebuild of configuration Debug for project main ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.cpp" 
+g++ -o main.exe "src\\main.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file main.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:05:45 **** Incremental Build of configuration Debug for project main ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.cpp" 
+g++ -o main.exe "src\\main.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file main.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:13:13 **** Incremental Build of configuration Debug for project main ****
+Info: Internal Builder is used for build
+g++ -o main.exe "src\\main.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file main.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:13:19 **** Incremental Build of configuration Debug for project main ****
+Info: Internal Builder is used for build
+g++ -o main.exe "src\\main.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file main.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:15:08 **** Rebuild of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+02:16:14 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+Info: Nothing to build for ffff
+02:16:34 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:16:39 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:17:23 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -o ffff.exe "src\\ffff.o" 
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+02:18:02 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+..\src\ffff.cpp: In function 'int main()':
+..\src\ffff.cpp:32:6: warning: unused variable 'num' [-Wunused-variable]
+   32 |  int num;
+      |      ^~~
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:18:12 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:18:15 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:19:39 **** Clean-only build of configuration Debug for project ffff ****
+rm -rf ffff.exe src/ffff.o src/ffff.d 
+rm: cannot remove `ffff.exe': Permission denied
+02:19:39 **** Rebuild of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:19:46 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:19:58 **** Clean-only build of configuration Debug for project ffff ****
+rm -rf ffff.exe src/ffff.o src/ffff.d 
+rm: cannot remove `ffff.exe': Permission denied
+02:19:58 **** Rebuild of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+02:36:22 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -o ffff.exe "src\\ffff.o" 
+Info: Nothing to build for ffff
+02:36:48 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+Info: Nothing to build for ffff
+Info: Nothing to build for ffff
+02:37:52 **** Incremental Build of configuration Debug for project ffff ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ffff.o" "..\\src\\ffff.cpp" 
+g++ -o ffff.exe "src\\ffff.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file ffff.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
